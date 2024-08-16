@@ -7,6 +7,7 @@ author:
 slug: 'blablablabla'
 description: ''
 coverImage: ''
+reviewCounter: '12'
 publishedAt: '2024-08-17T00:08:09.804Z'
 ---
 
