@@ -1,5 +1,13 @@
 {
   "title": "product",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "reviewCounter": {
+      "required": false,
+      "description": "Compteur avis",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "reviewCounter"
+    }
+  }
 }
