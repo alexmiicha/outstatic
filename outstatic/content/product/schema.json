@@ -1,13 +1,5 @@
 {
   "title": "product",
   "type": "object",
-  "properties": {
-    "title": {
-      "required": false,
-      "description": "title",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Title"
-    }
-  }
+  "properties": {}
 }
